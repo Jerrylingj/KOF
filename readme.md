@@ -19,7 +19,7 @@
 
 ③浏览器中正常显示游戏页面，可以进行游戏
 
-![d6b87af2831ab3429a7788a9f809e01](./../../Documents/WeChat Files/wxid_kcq9wkwj47u312/FileStorage/Temp/d6b87af2831ab3429a7788a9f809e01.png)
+![d6b87af2831ab3429a7788a9f809e01](./static/images/docs/d6b87af2831ab3429a7788a9f809e01.png)
 
 ![d1baf9f33085c6686a480151fc609f3](./static/images/docs/d1baf9f33085c6686a480151fc609f3.png)
 
